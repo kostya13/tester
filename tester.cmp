@@ -1,8 +1,8 @@
-Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 18.02.2014 15:09:59
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 18.02.2014 17:59:07
 
 BeginCmp
-TimeStamp = /53035F9F;
-Reference = BUZ1;
+TimeStamp = /53038C16;
+Reference = BZ1;
 ValeurCmp = BUZZER;
 IdModule  = PIN_ARRAY_2X1;
 EndCmp
@@ -15,9 +15,9 @@ IdModule  = C2;
 EndCmp
 
 BeginCmp
-TimeStamp = /530321E0;
+TimeStamp = /53036D18;
 Reference = DA1;
-ValeurCmp = GIC_OPAMP_UD608;
+ValeurCmp = УД608;
 IdModule  = DIP-8__300;
 EndCmp
 
@@ -32,49 +32,49 @@ BeginCmp
 TimeStamp = /530321EF;
 Reference = R1;
 ValeurCmp = RES;
-IdModule  = CP4;
+IdModule  = R4;
 EndCmp
 
 BeginCmp
 TimeStamp = /53032276;
 Reference = R2;
 ValeurCmp = RES;
-IdModule  = CP4;
+IdModule  = R4;
 EndCmp
 
 BeginCmp
 TimeStamp = /5303220D;
 Reference = R3;
 ValeurCmp = RES;
-IdModule  = CP4;
+IdModule  = R4;
 EndCmp
 
 BeginCmp
 TimeStamp = /5303221C;
 Reference = R4;
 ValeurCmp = RES;
-IdModule  = CP4;
+IdModule  = R4;
 EndCmp
 
 BeginCmp
 TimeStamp = /53032294;
 Reference = R5;
 ValeurCmp = RES;
-IdModule  = CP4;
+IdModule  = R4;
 EndCmp
 
 BeginCmp
 TimeStamp = /5303477A;
 Reference = R6;
 ValeurCmp = RES;
-IdModule  = CP4;
+IdModule  = R4;
 EndCmp
 
 BeginCmp
 TimeStamp = /53032285;
 Reference = R7;
 ValeurCmp = RES;
-IdModule  = CP4;
+IdModule  = R4;
 EndCmp
 
 BeginCmp
@@ -88,14 +88,14 @@ BeginCmp
 TimeStamp = /530343A0;
 Reference = VD1;
 ValeurCmp = DIODE_LIGHT;
-IdModule  = LEDV;
+IdModule  = LED-5MM;
 EndCmp
 
 BeginCmp
 TimeStamp = /5303476E;
 Reference = VD2;
 ValeurCmp = DIODE_LIGHT;
-IdModule  = LEDV;
+IdModule  = LED-5MM;
 EndCmp
 
 BeginCmp
