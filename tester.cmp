@@ -1,0 +1,108 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 18.02.2014 15:09:59
+
+BeginCmp
+TimeStamp = /53035F9F;
+Reference = BUZ1;
+ValeurCmp = BUZZER;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5303222B;
+Reference = C1;
+ValeurCmp = CAP;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /530321E0;
+Reference = DA1;
+ValeurCmp = GIC_OPAMP_UD608;
+IdModule  = DIP-8__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /5303223A;
+Reference = GB1;
+ValeurCmp = BAT;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /530321EF;
+Reference = R1;
+ValeurCmp = RES;
+IdModule  = CP4;
+EndCmp
+
+BeginCmp
+TimeStamp = /53032276;
+Reference = R2;
+ValeurCmp = RES;
+IdModule  = CP4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5303220D;
+Reference = R3;
+ValeurCmp = RES;
+IdModule  = CP4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5303221C;
+Reference = R4;
+ValeurCmp = RES;
+IdModule  = CP4;
+EndCmp
+
+BeginCmp
+TimeStamp = /53032294;
+Reference = R5;
+ValeurCmp = RES;
+IdModule  = CP4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5303477A;
+Reference = R6;
+ValeurCmp = RES;
+IdModule  = CP4;
+EndCmp
+
+BeginCmp
+TimeStamp = /53032285;
+Reference = R7;
+ValeurCmp = RES;
+IdModule  = CP4;
+EndCmp
+
+BeginCmp
+TimeStamp = /530322B2;
+Reference = SA1;
+ValeurCmp = SA_1-2_CL;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /530343A0;
+Reference = VD1;
+ValeurCmp = DIODE_LIGHT;
+IdModule  = LEDV;
+EndCmp
+
+BeginCmp
+TimeStamp = /5303476E;
+Reference = VD2;
+ValeurCmp = DIODE_LIGHT;
+IdModule  = LEDV;
+EndCmp
+
+BeginCmp
+TimeStamp = /53032249;
+Reference = XS1;
+ValeurCmp = CONN_02_F;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+EndListe
